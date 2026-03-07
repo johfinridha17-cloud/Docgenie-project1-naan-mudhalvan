@@ -6,7 +6,9 @@ Doc-Genie is an intelligent Python documentation generator designed to automatic
 Maintaining documentation manually can be time-consuming and inconsistent across projects. Doc-Genie simplifies this process by automatically generating docstrings while allowing developers to choose different documentation styles such as Google style and NumPy style.
 
 The system provides a simple and interactive interface built with Gradio, allowing users to easily paste Python code and instantly generate documentation.
+
 Technologies used
+
 Python
 Python is the main programming language used to build the system and handle code processing and documentation generation.
 
